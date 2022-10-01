@@ -2,7 +2,7 @@
 
 For this project, I had to create any 3D game using OpenGL in Visual Studion 2019.
 
-![My 3D FPS Shooter Game](https://github.com/WedgeManWik/OpenGL-Readme-Website/blob/main/FPS_OpenGL.PNG?raw=true)
+![My 3D OpenGL Scene](https://github.com/WedgeManWik/OpenGL-Readme-Website/blob/main/OpenGLCover.png?raw=true)
 ![My 3D FPS Shooter Game](https://github.com/WedgeManWik/OpenGL-Readme-Website/blob/main/FPS_OpenGL.PNG?raw=true)
 
 This is the first C++ project I've ever created - so I'm pretty happy with how it went. I tried recreating the fundamentals of the Pacman video game, whilst also trying to add some original aesthetics.
