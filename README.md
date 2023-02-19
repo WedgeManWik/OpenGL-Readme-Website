@@ -2,6 +2,10 @@
 
 For this project, I had to create any 3D game using OpenGL in Visual Studion 2019.
 
+This is a game i was assigned to make for university, where I had to make a 3D game using OpenGL. In the end, after much experimenting with what I could make in OpenGL, I decided to make a simple aim trainer. 
+
+This was quite a challenge as we weren't using a game engine to create a 3D game - instead, all the lighting calculations and rendering code had to be written by us, so we were creating from almost scratch.
+
 ![My 3D OpenGL Scene](https://github.com/WedgeManWik/OpenGL-Readme-Website/blob/main/OpenGLCover.png?raw=true)
 ![My 3D FPS Shooter Game](https://github.com/WedgeManWik/OpenGL-Readme-Website/blob/main/FPS_OpenGL.PNG?raw=true)
 
